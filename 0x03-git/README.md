@@ -1,2 +1,2 @@
-﻿# My editted readme file.
+﻿# My first readme
 ### I love programming. Rest assured this will be fun
